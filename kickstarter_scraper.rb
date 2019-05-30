@@ -18,4 +18,4 @@ require 'pry'
       projects[title.to_sym]= {}
     end
     projects
-  end  
+  end
